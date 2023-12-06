@@ -15,5 +15,5 @@
 
 ## 	🖼️ Imagem do Projeto:
 
-<img src="">
+<img src="https://github.com/FlaviaRamosdaSilva/Projeto-Mario/blob/main/assets/imagem%20site.png">
  
